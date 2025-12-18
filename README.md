@@ -1,6 +1,5 @@
 # Deezer Bot Developer Finder
-> Deezer Bot Developer Finder is a clean, open-source template repo for publishing a developer request, collecting applications, and managing requirements for a Deezer automation bot project.  
-> It helps you quickly attract experienced programmers, standardize proposals, and keep all specs, scope, and candidate screening in one place.
+> Deezer Bot Developer Finder is a clean, open-source template repo for publishing a developer request, collecting applications, and managing requirements for a Deezer automation bot project. It helps you quickly attract experienced programmers, standardize proposals, and keep all specs, scope, and candidate screening in one place.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
